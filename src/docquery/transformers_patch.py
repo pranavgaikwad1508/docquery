@@ -18,7 +18,7 @@ from .ext.pipeline_document_question_answering import DocumentQuestionAnsweringP
 
 
 PIPELINE_DEFAULTS = {
-    "document-question-answering": "impira/layoutlm-document-qa",
+    "document-question-answering": "impira/layoutlm-invoices",
     "document-classification": "impira/layoutlm-document-classifier",
 }
 
